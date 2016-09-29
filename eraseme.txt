@@ -2,3 +2,4 @@ This is commit number 1 in the branch eraseme_branch
 This is commit number 3
 This was a merge here
 Preparing for the rebase
+This is the rebase in the eraseme branch
